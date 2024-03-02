@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Manu M Benakal</h1>
-<h3 align="center">Aspiring SDE/SWE </h3>
+<h3 align="center">Aspiring SDE/SWE, Co-Founder @Cosmictech.io, Ex-TCS </h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-manubenakal.vercel.app/](https://portfolio-website-manubenakal.vercel.app/)
 
