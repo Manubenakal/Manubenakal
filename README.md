@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working at **Cosmictech.io**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-manubenakal.vercel.app/](https://portfolio-website-manubenakal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://project-3-d-developer-portfolio-cyan.vercel.app/](https://project-3-d-developer-portfolio-cyan.vercel.app/)
 
 - 📫 How to reach me **manubenakal@gmail.com**
 
