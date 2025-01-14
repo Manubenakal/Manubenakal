@@ -1,7 +1,7 @@
 <h1 align="center">Hey there!, I'm Manu M Benakal</h1>
-<h3 align="center">SDE,Co-Founder @Cosmictech.io, Ex-TCS</h3>
+<h3 align="center">SDE @NicheSolv, Ex-TCS</h3>
 
-- 🌱 I’m currently working at **Cosmictech.io**
+- 🌱 I’m currently working at **Nichesolv**
 
 - 👨‍💻 All of my projects are available at [https://project-3-d-developer-portfolio-cyan.vercel.app/](https://project-3-d-developer-portfolio-cyan.vercel.app/)
 
